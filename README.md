@@ -1,6 +1,6 @@
+![welcome](https://github.com/RafaGomezGlez/RafaGomezGlez/blob/main/1_Eqd94kPwcp0iu41qt8V9mQ.gif)
 ### Welcome👋
 
-![welcome](https://cdn-images-1.medium.com/max/1024/1*Eqd94kPwcp0iu41qt8V9mQ.gif)
 *** 
 - 🧢 I’m a 6th semester student
 - 🧨 I love helping people becoming better
