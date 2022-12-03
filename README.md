@@ -37,6 +37,7 @@
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-ar21.svg" /> </td>
             <td> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> </td>
             <td> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> </td>
+            <td> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> </td>
         </tr>
     </tbody>
 </table>    
@@ -59,7 +60,8 @@
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" /> </td>
             <td> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </td>
             <td> <img height="50" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.svg" /> </td>
-            <td> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> </td> 
+            <td> <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" /> </td>
+            <td> <img height="50" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg"/> </td>
         </tr>
     </tbody>
 </table>   
